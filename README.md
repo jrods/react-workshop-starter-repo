@@ -9,7 +9,7 @@ This is a boilerplate repo for the Intro to React.js workshop.
 2. Go to the [c9.io repos panel](https://c9.io/account/repos) and click "clone to edit"
 3. `> nvm install && npm install`
 4. `> npm start`
-5. Open http://[REPO_NAME]-[C9_USERNAME].c9users.io in another tab
+5. Open http://react-intro-jrods.c9users.io in another tab
 
 ## If c9.io fails
 
